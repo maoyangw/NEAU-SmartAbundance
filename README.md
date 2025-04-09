@@ -1,4 +1,44 @@
-以下是为 **SmartAbundance** 项目设计的 GitHub 开源简介内容，分为中文和英文两个版本，加入了表情符号，使内容更加生动和详细：
+# SmartAbundance: AI-Powered Agricultural Decision Support System 🌱
+
+## Project Introduction
+**SmartAbundance** is an AI-driven full-stack agricultural decision support system designed to empower agricultural production management through technological innovation. Developed by the innovation team of Northeast Agricultural University, the project aims to address core challenges in the agricultural sector, including data silos, delayed decision-making, and technological gaps. 🚀
+
+## Core Features
+- **Multi-source Data Integration**: Collect multidimensional data on weather, soil, and crop growth to build a specialized agricultural corpus. 🌦️
+- **Intelligent Q&A System**: Utilizing knowledge graphs and Chain-of-Thought (CoT) technology to provide precise answers to agricultural questions. 💡
+- **Differentiated Model Matrix**: Offering customized solutions tailored to the agricultural production characteristics of different regions (e.g., Heilongjiang, Sichuan, Shandong). 📊
+- **Real-time Decision Support**: Achieving high recall rates and low-latency decision recommendations through a hierarchical retrieval architecture and dynamic keyword expansion. 💻
+
+## Technical Highlights
+- **Decision Reasoning Framework**: The first joint training framework combining CoT and KG in the agricultural sector, enhancing the system's logical reasoning capabilities. 🧠
+- **Hierarchical Retrieval Architecture**: Combining BM25 pre-filtering, RAG semantic refinement, and knowledge graph supplementation to balance efficiency and accuracy. 🔍
+- **High Expandability**: Supporting dynamic keyword expansion and regional adaptation to accommodate diverse agricultural environments. 🌐
+
+## Application Scenarios
+- **Planting Planning**: Precise recommendations for variety selection, sowing techniques, and fertilization methods. 🌱
+- **Pest and Disease Control**: Predictive and control schemes for pests and diseases based on real-time data. 🪰
+- **Resource Management**: Optimized allocation of irrigation, fertilization, and other resources. 💧
+- **Public Welfare Promotion**: Helping small and medium-sized farmers bridge the digital divide through technological inclusiveness. 🤝
+
+## How to Get Involved
+### Contribution Guidelines
+1. **Fork this project to your GitHub account.** 📁
+2. **Clone the code to your local environment.** 💾
+3. **Submit your improvements or new features.** 💡
+4. **Submit a Pull Request, and we will review it as soon as possible.** ✅
+
+### Contact Us
+- **Collaborative Development**: For collaborative development inquiries, please contact **maoyangw@163.com**. 📧
+- **Dataset Acquisition**: To obtain the 880k and 42k CoT datasets, please contact **rshzhu@126.com**. 📊
+- **Beta Testing Access**: For beta testing access requests, please contact **maoyangw@163.com**. 🔒
+
+## License Agreement
+This project is licensed under the [MIT License](LICENSE), which allows for free use, modification, and distribution. 📄
+
+## Project Background
+**SmartAbundance** is an innovative project by university students, developed by the team from Northeast Agricultural University. We are aware that the project may have shortcomings, but we will continue to improve and refine it. Thank you for your understanding and support! 🙏
+
+---
 
 # 五谷丰登：农业智能决策系统 🌾
 
@@ -40,44 +80,6 @@
 ## 项目背景
 **五谷丰登** 是一个大学生创新项目，由东北农业大学团队开发。我们深知项目可能存在不足，但我们会持续改进和完善。感谢您的理解与支持！ 🙏
 
----
 
-# SmartAbundance: AI-Powered Agricultural Decision Support System 🌱
 
-## Project Introduction
-**SmartAbundance** is an AI-driven full-stack agricultural decision support system designed to empower agricultural production management through technological innovation. Developed by the innovation team of Northeast Agricultural University, the project aims to address core challenges in the agricultural sector, including data silos, delayed decision-making, and technological gaps. 🚀
 
-## Core Features
-- **Multi-source Data Integration**: Collect multidimensional data on weather, soil, and crop growth to build a specialized agricultural corpus. 🌦️
-- **Intelligent Q&A System**: Utilizing knowledge graphs and Chain-of-Thought (CoT) technology to provide precise answers to agricultural questions. 💡
-- **Differentiated Model Matrix**: Offering customized solutions tailored to the agricultural production characteristics of different regions (e.g., Heilongjiang, Sichuan, Shandong). 📊
-- **Real-time Decision Support**: Achieving high recall rates and low-latency decision recommendations through a hierarchical retrieval architecture and dynamic keyword expansion. 💻
-
-## Technical Highlights
-- **Decision Reasoning Framework**: The first joint training framework combining CoT and KG in the agricultural sector, enhancing the system's logical reasoning capabilities. 🧠
-- **Hierarchical Retrieval Architecture**: Combining BM25 pre-filtering, RAG semantic refinement, and knowledge graph supplementation to balance efficiency and accuracy. 🔍
-- **High Expandability**: Supporting dynamic keyword expansion and regional adaptation to accommodate diverse agricultural environments. 🌐
-
-## Application Scenarios
-- **Planting Planning**: Precise recommendations for variety selection, sowing techniques, and fertilization methods. 🌱
-- **Pest and Disease Control**: Predictive and control schemes for pests and diseases based on real-time data. 🪰
-- **Resource Management**: Optimized allocation of irrigation, fertilization, and other resources. 💧
-- **Public Welfare Promotion**: Helping small and medium-sized farmers bridge the digital divide through technological inclusiveness. 🤝
-
-## How to Get Involved
-### Contribution Guidelines
-1. **Fork this project to your GitHub account.** 📁
-2. **Clone the code to your local environment.** 💾
-3. **Submit your improvements or new features.** 💡
-4. **Submit a Pull Request, and we will review it as soon as possible.** ✅
-
-### Contact Us
-- **Collaborative Development**: For collaborative development inquiries, please contact **maoyangw@163.com**. 📧
-- **Dataset Acquisition**: To obtain the 880k and 42k CoT datasets, please contact **rshzhu@126.com**. 📊
-- **Beta Testing Access**: For beta testing access requests, please contact **maoyangw@163.com**. 🔒
-
-## License Agreement
-This project is licensed under the [MIT License](LICENSE), which allows for free use, modification, and distribution. 📄
-
-## Project Background
-**SmartAbundance** is an innovative project by university students, developed by the team from Northeast Agricultural University. We are aware that the project may have shortcomings, but we will continue to improve and refine it. Thank you for your understanding and support! 🙏
