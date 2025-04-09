@@ -1,3 +1,5 @@
+![Uploading a1d60b6807b5f21b15ee4065ef930de.jpg…]()
+
 # SmartAbundance: AI-Powered Agricultural Decision Support System 🌱
 
 ## Project Introduction
